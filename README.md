@@ -1,4 +1,5 @@
-# Sizing Mongosync Host Servers: Best Practices and Key Considerations
+# Sizing Mongosync Host Servers: 
+## Best Practices and Key Considerations
 
 When migrating data from on-premises environments to MongoDB Atlas or synchronizing clusters across different environments, Mongosync serves as a powerful tool. However, the efficiency of this process heavily relies on properly sizing the host servers where Mongosync runs. 
 
